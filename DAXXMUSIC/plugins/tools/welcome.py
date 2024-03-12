@@ -70,7 +70,7 @@ def welcomepic(pic, user, chatname, id, uname):
 
 @app.on_message(filters.command("wel") & ~filters.private)
 async def auto_state(_, message):
-    usage = "**Usage:**\n⦿/wel [on|off]\n➤ᴘᴏᴡᴇʀᴇᴅ ʙʏ [@x_sɪᴅʜᴜ](t.me/X_sidhu)"
+    usage = "**Usage:**\n⦿/wel [on|off]\n➤ᴘᴏᴡᴇʀᴇᴅ ʙʏ [@x_ᴅʜɪᴍᴀɴ](t.me/i_dxlvir)"
     if len(message.command) == 1:
         return await message.reply_text(usage)
     chat_id = message.chat.id
