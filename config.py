@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","i_dxlvir")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "PUNJABI_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ViSHU_MuSiCBoT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Vishu")
 # ---------------------------------------------------------
